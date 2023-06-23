@@ -59,5 +59,3 @@ License
 GNU Affero GPL
 
 **Free Software, Hell Yeah!**
-
-From Slavyansk, Ukraine. With Love
